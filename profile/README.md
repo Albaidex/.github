@@ -1,7 +1,11 @@
 
 ![Albaidex Logo](https://github.com/Albaidex/Albaidex/blob/master/public/img/img/icons/logoalbaidex.png?raw=true)
 
-Welcome to the official GitHub organization for **Albaidex** — a forward-thinking company dedicated to delivering comprehensive digital solutions to help businesses excel in the modern digital world.
+---
+
+## Albaidex Organization
+
+Welcome to the official GitHub organization for Albaidex — a forward-thinking company dedicated to delivering comprehensive digital solutions to help businesses excel in the modern digital world.
 
 ## About Albaidex
 
