@@ -1,6 +1,5 @@
+## Albaidex Software Foundation
 
-![Albaidex Logo]()
+![Albaidex Logo](logotype.png)
 
 ---
-
-## Albaidex Software Foundation
